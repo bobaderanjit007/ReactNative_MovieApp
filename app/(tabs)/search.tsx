@@ -4,6 +4,7 @@ const search = () => {
   return (
     <View>
       <Text>search</Text>
+      
     </View>
   )
 }
